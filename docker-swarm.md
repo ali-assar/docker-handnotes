@@ -2,8 +2,9 @@
 
 Docker Swarm is Docker's native orchestration tool used for managing a cluster of Docker hosts and deploying and scaling containerized applications across them. It provides features for automatic load balancing, service discovery, rolling updates, and fault tolerance, making it easy to deploy and manage distributed applications at scale.
 
-![docker swarm](./images/docker-swarm-v2.png)
-
+<div style="text-align:center">
+    <img src="./images/docker-swarm-v2.png" alt="docker swarm">
+</div>
 
 ### Key Components of Docker Swarm
 
@@ -15,7 +16,10 @@ Manager nodes are responsible for managing the swarm cluster. They handle tasks 
 
 Worker nodes are responsible for running containers and executing the tasks assigned by the manager nodes. They do not participate in managing the swarm cluster but only execute the containers deployed by the manager nodes.
 
-![docker swarm](./images/Docker-Swarm-Networking-2.webp)
+<div style="text-align:center">
+    <img src="./images/Docker-Swarm-Networking-2.webp" alt="docker Swarm network">
+</div>
+
 #### 3. Services
 
 Services are the primary building blocks of applications in Docker Swarm. A service defines how a containerized application should be deployed and managed within the swarm cluster. Services can be scaled up or down, updated, and monitored easily using Docker Swarm commands.
