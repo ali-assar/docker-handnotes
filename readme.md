@@ -9,9 +9,14 @@ Docker is a powerful platform for building, shipping, and running applications u
 - [Getting Started](getting-started.md)
 - [Images](images.md)
 - [Volumes](volumes.md)
-- [Docker Swarm](docker-swarm.md)
 - [Docker Network](docker-network.md)
 - [Docker Compose](docker-compose.md)
+- [Docker Swarm](docker-swarm.md)
+
+<div style="text-align:center">
+    <img src="./images/Docker_logo.png" alt="docker logo">
+</div>
+
 
 ## Contributing
 
