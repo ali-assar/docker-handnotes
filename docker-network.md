@@ -2,6 +2,12 @@
 
 Docker networking allows containers to communicate with each other and with other network resources efficiently. Docker provides various networking options to suit different use cases, from single-host networking to complex multi-host setups. Understanding Docker networking is crucial for deploying and managing containerized applications effectively.
 
+<div style="text-align:center">
+    <img src="./images/Architecture-of-Container-Networking-Model.png" alt="docker network">
+</div>
+
+
+
 ### Docker Network Models
 
 #### 1. Bridge Network

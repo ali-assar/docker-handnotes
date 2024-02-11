@@ -1,5 +1,6 @@
 ## Getting Started with Docker
 Docker is a powerful tool for containerization, allowing you to package applications and their dependencies into lightweight containers that can run anywhere.
+
 ### 1.  Pulling Images
 To get started with Docker, you often need to pull Docker images from a registry like Docker Hub
 ```
