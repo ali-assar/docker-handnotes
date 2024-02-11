@@ -6,6 +6,7 @@ Docker is a powerful platform for building, shipping, and running applications u
 
 ## Table of Contents
 
+- [Docker vs VM](docker-vs-vm.md)
 - [Getting Started](getting-started.md)
 - [Images](images.md)
 - [Volumes](volumes.md)
